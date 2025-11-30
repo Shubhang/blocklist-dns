@@ -1,0 +1,9 @@
+# Pi-hole DNS Blocklist
+# Title: Spotify DNS Blocklist
+# Description: Blocks Spotify domains to prevent Spotify from loading (distraction blocker)
+# Note: This is NOT an ad blocker - this completely blocks Spotify from loading
+#
+guel-dealer.g2.spotify.com
+apresolve.spotify.com
+spclient.wg.spotify.com
+guel-spclient.spotify.com
